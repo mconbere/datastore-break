@@ -6,3 +6,4 @@ mkdir -p $PWD/path
 GOPATH=$PWD/path
 
 go get google.golang.org/appengine/datastore
+go get golang.org/x/oauth2/google
